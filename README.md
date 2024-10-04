@@ -16,9 +16,9 @@ The Lishi tool is used to decode locks by identifying specific pin. This app pro
 - **OK**: Save the current values.
 - **Back**: Exit the app, saving the values automatically.
 
-##Version history
+## Version history
 0.1 - Initial release 
 
-##Author
+## Author
 @evillero
 
